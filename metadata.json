@@ -1,0 +1,10 @@
+{
+  "name": "Remix SuperCart",
+  "description": "Fast \u0026 fresh grocery delivery with real-time tracking, product catalog, cart checkout, and admin management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
